@@ -44,8 +44,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📚 Projects
 
-- [Inventario]([URL](https://github.com/box-quarrel/Inventario-Backend.git))
-- [Cartoonization]([https://github.com/abdulhamidmazroua/Cartoonization.git])
-- [Courses-Center]([https://github.com/abdulhamidmazroua/Courses-Center.git])
+- [Inventario](https://github.com/box-quarrel/Inventario-Backend.git)
+- [Cartoonization](https://github.com/abdulhamidmazroua/Cartoonization.git)
+- [Courses-Center](https://github.com/abdulhamidmazroua/Courses-Center.git)
+- [Pharmacy-Information-System](https://github.com/abdulhamidmazroua/Pharmacy-Information-System.git)
 
 Feel free to check out my repositories and get in touch if you'd like to collaborate!
