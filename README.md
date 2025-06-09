@@ -49,4 +49,5 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - [Courses-Center](https://github.com/abdulhamidmazroua/Courses-Center.git)
 - [Pharmacy-Information-System](https://github.com/abdulhamidmazroua/Pharmacy-Information-System.git)
 - [Intelligent-lookup-extension](https://github.com/abdulhamidmazroua/intelligent-lookup-extension.git)
+
 Feel free to check out my repositories and get in touch if you'd like to collaborate!
