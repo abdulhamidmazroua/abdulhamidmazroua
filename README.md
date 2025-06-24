@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on mutliple projects, but mainly healthcare, fintech, ecommerce, POS, and HR systems.
+- 🔭 I’m currently working on mutliple projects, but mainly healthcare, fintech, ecommerce, POS, HR systems, or any interesting project.
 - 👯 I’m looking to collaborate on simply any interesting project.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdulhamid-mazroua)
                       [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:[abdulhamidmazroua@gmail.com])
