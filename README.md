@@ -27,10 +27,6 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ![Abdulhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhamidmazroua&show_icons=true&theme=radical)
 
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=abdulhamidmazroua&theme=onedark)
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/abdulhamid-mazroua/])
