@@ -12,6 +12,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## 🛠️ Languages and Tools
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -25,7 +26,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 📈 GitHub Stats
 
-![Abdulhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhamidmazroua&show_icons=true&theme=radical)
+![Abdulhamid's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulhamidmazroua&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamidmazroua&layout=compact&langs_count=10)
 
 ## 🔗 Connect with Me
 
